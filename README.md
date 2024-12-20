@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [my Github profile](my Github profile)
+- 👨‍💻 All of my projects are available at [[AvayGit](https://github.com/AvayGit)]
 
 - 💬 Ask me about **my life**
 
