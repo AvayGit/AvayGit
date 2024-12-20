@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaygit" alt="avaygit" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript XML**
+- 🔭 I’m currently working on **JavaScript XML** and **React**
 
-- 🌱 I’m currently learning **JavaScript XML**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [my Github profile](my Github profile)
 
