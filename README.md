@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Avayjeet Paul</h1>
-<h3 align="center">A toddling WebDev learner from Guwahati, Assam</h3>
+<h3 align="center">Data Quality Engineer and Data an aspiring Data Scientist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaygit" alt="avaygit" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript XML** and **React**
+- 🔭 I’m currently working on **Facial Expression Recognition** and **Data Science**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Internet of Things**
 
 - 👨‍💻 All of my projects are available at [[AvayGit](https://github.com/AvayGit)]
 
