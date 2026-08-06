@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avaygit" alt="avaygit" /></a> </p>
 
-- 🔭 I’m currently working on **Facial Expression Recognition** and **Data Science**
+- 🔭 I’m currently working on **Computer Vision** and **Data Science**
 
 - 🌱 I’m currently learning **Internet of Things**
 
