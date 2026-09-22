@@ -106,13 +106,18 @@ I'm an **R&D Engineer** and an aspiring **Data Scientist** with an interest in b
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avaygit&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Avayjeet's GitHub statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AvayGit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    alt="Avayjeet's GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avaygit&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvayGit&layout=compact&hide_border=true"
+    alt="Top Programming Languages"
+  />
 </p>
-
 ---
 
 ## 🤝 Connect With Me
